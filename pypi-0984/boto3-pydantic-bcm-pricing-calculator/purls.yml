@@ -1,0 +1,4 @@
+- pkg:pypi/boto3-pydantic-bcm-pricing-calculator@0.4.1
+- pkg:pypi/boto3-pydantic-bcm-pricing-calculator@1.0.0
+- pkg:pypi/boto3-pydantic-bcm-pricing-calculator@1.0.1
+- pkg:pypi/boto3-pydantic-bcm-pricing-calculator@1.0.2

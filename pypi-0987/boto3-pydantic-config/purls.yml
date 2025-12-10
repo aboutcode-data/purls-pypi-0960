@@ -1,0 +1,3 @@
+- pkg:pypi/boto3-pydantic-config@1.0.0
+- pkg:pypi/boto3-pydantic-config@1.0.1
+- pkg:pypi/boto3-pydantic-config@1.0.2
