@@ -1,0 +1,13 @@
+- pkg:pypi/appdynamics-alpine-without-jre@23.10.0.6327
+- pkg:pypi/appdynamics-alpine-without-jre@23.7.0.6112
+- pkg:pypi/appdynamics-alpine-without-jre@23.8.0.6197
+- pkg:pypi/appdynamics-alpine-without-jre@24.11.0.7213
+- pkg:pypi/appdynamics-alpine-without-jre@24.2.0.6567
+- pkg:pypi/appdynamics-alpine-without-jre@24.4.1.6770
+- pkg:pypi/appdynamics-alpine-without-jre@24.5.0.6849
+- pkg:pypi/appdynamics-alpine-without-jre@24.7.0.6967
+- pkg:pypi/appdynamics-alpine-without-jre@25.1.0.7425
+- pkg:pypi/appdynamics-alpine-without-jre@25.10.0.8329
+- pkg:pypi/appdynamics-alpine-without-jre@25.4.0.7639
+- pkg:pypi/appdynamics-alpine-without-jre@25.6.0.7974
+- pkg:pypi/appdynamics-alpine-without-jre@25.8.0.8120
