@@ -1,0 +1,4 @@
+- pkg:pypi/certbot-dns-hotline@0.1.0
+- pkg:pypi/certbot-dns-hotline@0.3.1
+- pkg:pypi/certbot-dns-hotline@0.3.3
+- pkg:pypi/certbot-dns-hotline@0.4.0
