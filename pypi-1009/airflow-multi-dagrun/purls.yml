@@ -1,0 +1,9 @@
+- pkg:pypi/airflow-multi-dagrun@1.0
+- pkg:pypi/airflow-multi-dagrun@1.1
+- pkg:pypi/airflow-multi-dagrun@1.2
+- pkg:pypi/airflow-multi-dagrun@2.0.0
+- pkg:pypi/airflow-multi-dagrun@2.0.0.dev0
+- pkg:pypi/airflow-multi-dagrun@2.1.0
+- pkg:pypi/airflow-multi-dagrun@2.2.0
+- pkg:pypi/airflow-multi-dagrun@2.3.0
+- pkg:pypi/airflow-multi-dagrun@2.3.1
