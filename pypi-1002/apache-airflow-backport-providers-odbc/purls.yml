@@ -1,0 +1,11 @@
+- pkg:pypi/apache-airflow-backport-providers-odbc@2020.10.29
+- pkg:pypi/apache-airflow-backport-providers-odbc@2020.10.29rc1
+- pkg:pypi/apache-airflow-backport-providers-odbc@2020.10.5
+- pkg:pypi/apache-airflow-backport-providers-odbc@2020.10.5rc1
+- pkg:pypi/apache-airflow-backport-providers-odbc@2020.5.20rc1
+- pkg:pypi/apache-airflow-backport-providers-odbc@2020.5.20rc2
+- pkg:pypi/apache-airflow-backport-providers-odbc@2020.5.20rc3
+- pkg:pypi/apache-airflow-backport-providers-odbc@2020.6.24
+- pkg:pypi/apache-airflow-backport-providers-odbc@2020.6.24rc1
+- pkg:pypi/apache-airflow-backport-providers-odbc@2021.3.17
+- pkg:pypi/apache-airflow-backport-providers-odbc@2021.3.17rc1
