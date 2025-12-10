@@ -1,0 +1,5 @@
+- pkg:pypi/aws-durable-execution-sdk-python@0.0.1a0
+- pkg:pypi/aws-durable-execution-sdk-python@0.0.2
+- pkg:pypi/aws-durable-execution-sdk-python@1.0.0
+- pkg:pypi/aws-durable-execution-sdk-python@1.0.0.post1
+- pkg:pypi/aws-durable-execution-sdk-python@1.1.0

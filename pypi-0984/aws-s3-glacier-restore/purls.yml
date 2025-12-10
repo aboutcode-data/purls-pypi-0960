@@ -1,0 +1,4 @@
+- pkg:pypi/aws-s3-glacier-restore@0.0.1
+- pkg:pypi/aws-s3-glacier-restore@0.0.2
+- pkg:pypi/aws-s3-glacier-restore@0.0.3
+- pkg:pypi/aws-s3-glacier-restore@0.0.4

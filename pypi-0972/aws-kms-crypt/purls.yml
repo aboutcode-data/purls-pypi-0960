@@ -1,0 +1,5 @@
+- pkg:pypi/aws-kms-crypt@0.0.2
+- pkg:pypi/aws-kms-crypt@0.0.3
+- pkg:pypi/aws-kms-crypt@1.0.0
+- pkg:pypi/aws-kms-crypt@2.0.0
+- pkg:pypi/aws-kms-crypt@3.0.0
