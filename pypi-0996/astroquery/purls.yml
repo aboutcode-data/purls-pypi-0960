@@ -123,6 +123,7 @@
 - pkg:pypi/astroquery@0.4.10.dev9924
 - pkg:pypi/astroquery@0.4.11
 - pkg:pypi/astroquery@0.4.11.dev10199
+- pkg:pypi/astroquery@0.4.12.dev10525
 - pkg:pypi/astroquery@0.4.2
 - pkg:pypi/astroquery@0.4.2.dev6193
 - pkg:pypi/astroquery@0.4.2.dev6213

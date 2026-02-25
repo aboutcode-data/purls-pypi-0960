@@ -67,6 +67,7 @@
 - pkg:pypi/asposecellscloud@25.1.1
 - pkg:pypi/asposecellscloud@25.10
 - pkg:pypi/asposecellscloud@25.11
+- pkg:pypi/asposecellscloud@25.12
 - pkg:pypi/asposecellscloud@25.2
 - pkg:pypi/asposecellscloud@25.2.1
 - pkg:pypi/asposecellscloud@25.3
@@ -77,3 +78,6 @@
 - pkg:pypi/asposecellscloud@25.7
 - pkg:pypi/asposecellscloud@25.8
 - pkg:pypi/asposecellscloud@25.9
+- pkg:pypi/asposecellscloud@26.1
+- pkg:pypi/asposecellscloud@26.1.1
+- pkg:pypi/asposecellscloud@26.2
