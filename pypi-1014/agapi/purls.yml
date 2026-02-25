@@ -1,4 +1,6 @@
 - pkg:pypi/agapi@2025.11.15
+- pkg:pypi/agapi@2025.12.25
 - pkg:pypi/agapi@2025.8.15
 - pkg:pypi/agapi@2025.9.15
+- pkg:pypi/agapi@2026.2.2
 - pkg:pypi/agapi@9.10.2025
