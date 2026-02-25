@@ -57,7 +57,16 @@
 - pkg:pypi/apache-airflow-providers-celery@3.14.0
 - pkg:pypi/apache-airflow-providers-celery@3.14.0rc1
 - pkg:pypi/apache-airflow-providers-celery@3.14.0rc2
+- pkg:pypi/apache-airflow-providers-celery@3.14.1
 - pkg:pypi/apache-airflow-providers-celery@3.14.1rc1
+- pkg:pypi/apache-airflow-providers-celery@3.15.0
+- pkg:pypi/apache-airflow-providers-celery@3.15.0rc1
+- pkg:pypi/apache-airflow-providers-celery@3.15.1
+- pkg:pypi/apache-airflow-providers-celery@3.15.1rc1
+- pkg:pypi/apache-airflow-providers-celery@3.15.2
+- pkg:pypi/apache-airflow-providers-celery@3.15.2rc1
+- pkg:pypi/apache-airflow-providers-celery@3.16.0
+- pkg:pypi/apache-airflow-providers-celery@3.16.0rc1
 - pkg:pypi/apache-airflow-providers-celery@3.2.0
 - pkg:pypi/apache-airflow-providers-celery@3.2.0rc1
 - pkg:pypi/apache-airflow-providers-celery@3.2.0rc2

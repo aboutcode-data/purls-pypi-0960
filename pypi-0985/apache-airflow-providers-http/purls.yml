@@ -104,4 +104,11 @@
 - pkg:pypi/apache-airflow-providers-http@5.5.0rc1
 - pkg:pypi/apache-airflow-providers-http@5.6.0
 - pkg:pypi/apache-airflow-providers-http@5.6.0rc1
+- pkg:pypi/apache-airflow-providers-http@5.6.1
 - pkg:pypi/apache-airflow-providers-http@5.6.1rc1
+- pkg:pypi/apache-airflow-providers-http@5.6.2
+- pkg:pypi/apache-airflow-providers-http@5.6.2rc1
+- pkg:pypi/apache-airflow-providers-http@5.6.3
+- pkg:pypi/apache-airflow-providers-http@5.6.3rc1
+- pkg:pypi/apache-airflow-providers-http@5.6.4
+- pkg:pypi/apache-airflow-providers-http@5.6.4rc1

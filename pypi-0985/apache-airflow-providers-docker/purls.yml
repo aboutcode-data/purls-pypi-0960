@@ -128,4 +128,7 @@
 - pkg:pypi/apache-airflow-providers-docker@4.5.0
 - pkg:pypi/apache-airflow-providers-docker@4.5.0rc1
 - pkg:pypi/apache-airflow-providers-docker@4.5.0rc2
+- pkg:pypi/apache-airflow-providers-docker@4.5.1
 - pkg:pypi/apache-airflow-providers-docker@4.5.1rc1
+- pkg:pypi/apache-airflow-providers-docker@4.5.2
+- pkg:pypi/apache-airflow-providers-docker@4.5.2rc1
