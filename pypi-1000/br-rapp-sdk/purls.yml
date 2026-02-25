@@ -1,3 +1,7 @@
+- pkg:pypi/br-rapp-sdk@2025.12
+- pkg:pypi/br-rapp-sdk@2025.12rc1
+- pkg:pypi/br-rapp-sdk@2025.12rc2
+- pkg:pypi/br-rapp-sdk@2025.12rc3
 - pkg:pypi/br-rapp-sdk@2025.6
 - pkg:pypi/br-rapp-sdk@2025.6a1
 - pkg:pypi/br-rapp-sdk@2025.6a3
@@ -6,3 +10,4 @@
 - pkg:pypi/br-rapp-sdk@2025.9rc1
 - pkg:pypi/br-rapp-sdk@2025.9rc2
 - pkg:pypi/br-rapp-sdk@2025.9rc3
+- pkg:pypi/br-rapp-sdk@2026.2

@@ -161,6 +161,11 @@
 - pkg:pypi/browserstack-sdk@1.32.1
 - pkg:pypi/browserstack-sdk@1.33.0
 - pkg:pypi/browserstack-sdk@1.33.1
+- pkg:pypi/browserstack-sdk@1.33.10
+- pkg:pypi/browserstack-sdk@1.33.11
+- pkg:pypi/browserstack-sdk@1.33.12
+- pkg:pypi/browserstack-sdk@1.33.13
+- pkg:pypi/browserstack-sdk@1.33.14
 - pkg:pypi/browserstack-sdk@1.33.2
 - pkg:pypi/browserstack-sdk@1.33.3
 - pkg:pypi/browserstack-sdk@1.33.4
@@ -168,6 +173,14 @@
 - pkg:pypi/browserstack-sdk@1.33.6
 - pkg:pypi/browserstack-sdk@1.33.7
 - pkg:pypi/browserstack-sdk@1.33.8
+- pkg:pypi/browserstack-sdk@1.33.9
+- pkg:pypi/browserstack-sdk@1.34.0
+- pkg:pypi/browserstack-sdk@1.34.1
+- pkg:pypi/browserstack-sdk@1.34.2
+- pkg:pypi/browserstack-sdk@1.35.0
+- pkg:pypi/browserstack-sdk@1.36.0
+- pkg:pypi/browserstack-sdk@1.37.0
+- pkg:pypi/browserstack-sdk@1.38.0
 - pkg:pypi/browserstack-sdk@1.4.0
 - pkg:pypi/browserstack-sdk@1.4.2
 - pkg:pypi/browserstack-sdk@1.4.3
