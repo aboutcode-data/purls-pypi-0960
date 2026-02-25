@@ -1,3 +1,4 @@
+- pkg:pypi/asyncgui@0.10.0.dev0
 - pkg:pypi/asyncgui@0.5.0
 - pkg:pypi/asyncgui@0.5.1
 - pkg:pypi/asyncgui@0.5.2
