@@ -11,6 +11,7 @@
 - pkg:pypi/binary-refinery@0.1.7
 - pkg:pypi/binary-refinery@0.1.8
 - pkg:pypi/binary-refinery@0.1.9
+- pkg:pypi/binary-refinery@0.10.0
 - pkg:pypi/binary-refinery@0.2.0
 - pkg:pypi/binary-refinery@0.2.1
 - pkg:pypi/binary-refinery@0.2.3
@@ -205,7 +206,16 @@
 - pkg:pypi/binary-refinery@0.9.15
 - pkg:pypi/binary-refinery@0.9.16
 - pkg:pypi/binary-refinery@0.9.17
+- pkg:pypi/binary-refinery@0.9.18
+- pkg:pypi/binary-refinery@0.9.19
 - pkg:pypi/binary-refinery@0.9.2
+- pkg:pypi/binary-refinery@0.9.20
+- pkg:pypi/binary-refinery@0.9.21
+- pkg:pypi/binary-refinery@0.9.22
+- pkg:pypi/binary-refinery@0.9.23
+- pkg:pypi/binary-refinery@0.9.24
+- pkg:pypi/binary-refinery@0.9.25
+- pkg:pypi/binary-refinery@0.9.26
 - pkg:pypi/binary-refinery@0.9.3
 - pkg:pypi/binary-refinery@0.9.4
 - pkg:pypi/binary-refinery@0.9.5
