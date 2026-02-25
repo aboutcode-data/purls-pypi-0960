@@ -12,5 +12,7 @@
 - pkg:pypi/carvera-controller-community@0.8.0
 - pkg:pypi/carvera-controller-community@0.8.1
 - pkg:pypi/carvera-controller-community@0.8.2
+- pkg:pypi/carvera-controller-community@2.0.0
 - pkg:pypi/carvera-controller-community@2.0.0rc1
 - pkg:pypi/carvera-controller-community@2.0.0rc2
+- pkg:pypi/carvera-controller-community@2.1.0rc1
