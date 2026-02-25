@@ -25,6 +25,7 @@
 - pkg:pypi/botbuilder-integration-applicationinsights-aiohttp@4.16.1
 - pkg:pypi/botbuilder-integration-applicationinsights-aiohttp@4.16.2
 - pkg:pypi/botbuilder-integration-applicationinsights-aiohttp@4.17.0
+- pkg:pypi/botbuilder-integration-applicationinsights-aiohttp@4.17.1
 - pkg:pypi/botbuilder-integration-applicationinsights-aiohttp@4.8.0
 - pkg:pypi/botbuilder-integration-applicationinsights-aiohttp@4.8.1
 - pkg:pypi/botbuilder-integration-applicationinsights-aiohttp@4.9.0
