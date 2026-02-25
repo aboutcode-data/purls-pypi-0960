@@ -59,3 +59,5 @@
 - pkg:pypi/bioql@5.7.7
 - pkg:pypi/bioql@6.0.0
 - pkg:pypi/bioql@6.0.1
+- pkg:pypi/bioql@7.0.0
+- pkg:pypi/bioql@7.0.1
