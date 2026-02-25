@@ -20,6 +20,9 @@
 - pkg:pypi/aiohutils@0.22.2
 - pkg:pypi/aiohutils@0.22.3
 - pkg:pypi/aiohutils@0.22.4
+- pkg:pypi/aiohutils@0.23.0
+- pkg:pypi/aiohutils@0.24.0
+- pkg:pypi/aiohutils@0.24.1
 - pkg:pypi/aiohutils@0.6.0
 - pkg:pypi/aiohutils@0.6.1
 - pkg:pypi/aiohutils@0.7.0

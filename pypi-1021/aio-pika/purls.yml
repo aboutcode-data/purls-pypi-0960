@@ -212,3 +212,5 @@
 - pkg:pypi/aio-pika@9.5.6
 - pkg:pypi/aio-pika@9.5.7
 - pkg:pypi/aio-pika@9.5.8
+- pkg:pypi/aio-pika@9.6.0
+- pkg:pypi/aio-pika@9.6.1
