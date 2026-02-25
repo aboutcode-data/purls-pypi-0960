@@ -121,6 +121,9 @@
 - pkg:pypi/antchain-riskplus@1.28.7
 - pkg:pypi/antchain-riskplus@1.29.2
 - pkg:pypi/antchain-riskplus@1.29.3
+- pkg:pypi/antchain-riskplus@1.30.0
+- pkg:pypi/antchain-riskplus@1.30.11
+- pkg:pypi/antchain-riskplus@1.30.12
 - pkg:pypi/antchain-riskplus@1.6.5
 - pkg:pypi/antchain-riskplus@1.8.8
 - pkg:pypi/antchain-riskplus@1.8.9

@@ -18,3 +18,6 @@
 - pkg:pypi/ansible-dev-environment@25.5.0
 - pkg:pypi/ansible-dev-environment@25.7.0
 - pkg:pypi/ansible-dev-environment@25.8.0
+- pkg:pypi/ansible-dev-environment@26.1.0
+- pkg:pypi/ansible-dev-environment@26.1.1
+- pkg:pypi/ansible-dev-environment@26.2.0
