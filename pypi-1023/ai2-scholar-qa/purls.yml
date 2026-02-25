@@ -44,6 +44,12 @@
 - pkg:pypi/ai2-scholar-qa@0.7.1
 - pkg:pypi/ai2-scholar-qa@0.8.0
 - pkg:pypi/ai2-scholar-qa@0.8.1
+- pkg:pypi/ai2-scholar-qa@0.8.10
 - pkg:pypi/ai2-scholar-qa@0.8.2
 - pkg:pypi/ai2-scholar-qa@0.8.3
 - pkg:pypi/ai2-scholar-qa@0.8.4
+- pkg:pypi/ai2-scholar-qa@0.8.5
+- pkg:pypi/ai2-scholar-qa@0.8.6
+- pkg:pypi/ai2-scholar-qa@0.8.7
+- pkg:pypi/ai2-scholar-qa@0.8.8
+- pkg:pypi/ai2-scholar-qa@0.8.9
