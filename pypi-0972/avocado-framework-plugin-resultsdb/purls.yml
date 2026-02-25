@@ -12,6 +12,7 @@
 - pkg:pypi/avocado-framework-plugin-resultsdb@110.0
 - pkg:pypi/avocado-framework-plugin-resultsdb@111.0
 - pkg:pypi/avocado-framework-plugin-resultsdb@112.0
+- pkg:pypi/avocado-framework-plugin-resultsdb@113.0
 - pkg:pypi/avocado-framework-plugin-resultsdb@49.0
 - pkg:pypi/avocado-framework-plugin-resultsdb@50.0
 - pkg:pypi/avocado-framework-plugin-resultsdb@51.0
