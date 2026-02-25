@@ -25,6 +25,7 @@
 - pkg:pypi/c2pa-python@0.26.0
 - pkg:pypi/c2pa-python@0.27.0
 - pkg:pypi/c2pa-python@0.27.1
+- pkg:pypi/c2pa-python@0.28.0
 - pkg:pypi/c2pa-python@0.3.0
 - pkg:pypi/c2pa-python@0.3.1
 - pkg:pypi/c2pa-python@0.4.0
