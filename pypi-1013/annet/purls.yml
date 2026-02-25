@@ -147,6 +147,12 @@
 - pkg:pypi/annet@3.22.2
 - pkg:pypi/annet@3.22.3
 - pkg:pypi/annet@3.22.4
+- pkg:pypi/annet@3.22.5
+- pkg:pypi/annet@3.22.6
+- pkg:pypi/annet@3.22.7
+- pkg:pypi/annet@3.22.8
+- pkg:pypi/annet@3.23.0
+- pkg:pypi/annet@3.23.1
 - pkg:pypi/annet@3.3.0
 - pkg:pypi/annet@3.4.0
 - pkg:pypi/annet@3.4.1

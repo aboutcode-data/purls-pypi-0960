@@ -17,6 +17,7 @@
 - pkg:pypi/anodb@13.1
 - pkg:pypi/anodb@13.2
 - pkg:pypi/anodb@14.0
+- pkg:pypi/anodb@15.0
 - pkg:pypi/anodb@2.0.0
 - pkg:pypi/anodb@2.1.0
 - pkg:pypi/anodb@2.2.0
