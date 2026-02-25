@@ -4,3 +4,5 @@
 - pkg:pypi/auth0-server-python@1.0.0b4
 - pkg:pypi/auth0-server-python@1.0.0b5
 - pkg:pypi/auth0-server-python@1.0.0b6
+- pkg:pypi/auth0-server-python@1.0.0b7
+- pkg:pypi/auth0-server-python@1.0.0b8
