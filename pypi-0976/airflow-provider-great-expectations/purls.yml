@@ -23,6 +23,7 @@
 - pkg:pypi/airflow-provider-great-expectations@0.2.8
 - pkg:pypi/airflow-provider-great-expectations@0.2.9
 - pkg:pypi/airflow-provider-great-expectations@0.3.0
+- pkg:pypi/airflow-provider-great-expectations@1.0.0
 - pkg:pypi/airflow-provider-great-expectations@1.0.0a1
 - pkg:pypi/airflow-provider-great-expectations@1.0.0a2
 - pkg:pypi/airflow-provider-great-expectations@1.0.0a3
