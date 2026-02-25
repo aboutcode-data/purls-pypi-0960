@@ -1,5 +1,6 @@
 - pkg:pypi/adafruit-circuitpython-rfm@1.0.0
 - pkg:pypi/adafruit-circuitpython-rfm@1.0.1
+- pkg:pypi/adafruit-circuitpython-rfm@1.0.10
 - pkg:pypi/adafruit-circuitpython-rfm@1.0.2
 - pkg:pypi/adafruit-circuitpython-rfm@1.0.3
 - pkg:pypi/adafruit-circuitpython-rfm@1.0.4

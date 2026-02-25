@@ -11,6 +11,7 @@
 - pkg:pypi/adbc-driver-flightsql@0.9.0
 - pkg:pypi/adbc-driver-flightsql@1.0.0
 - pkg:pypi/adbc-driver-flightsql@1.1.0
+- pkg:pypi/adbc-driver-flightsql@1.10.0
 - pkg:pypi/adbc-driver-flightsql@1.2.0
 - pkg:pypi/adbc-driver-flightsql@1.3.0
 - pkg:pypi/adbc-driver-flightsql@1.4.0
