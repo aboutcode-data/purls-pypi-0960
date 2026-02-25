@@ -1,1 +1,4 @@
 - pkg:pypi/aidge-export-tensorrt@0.2.2
+- pkg:pypi/aidge-export-tensorrt@0.9.0
+- pkg:pypi/aidge-export-tensorrt@0.9.0.post2
+- pkg:pypi/aidge-export-tensorrt@0.9.0.post3
