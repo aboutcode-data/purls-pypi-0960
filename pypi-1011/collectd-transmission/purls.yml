@@ -1,0 +1,16 @@
+- pkg:pypi/collectd-transmission@3.0.0
+- pkg:pypi/collectd-transmission@3.1.0
+- pkg:pypi/collectd-transmission@3.2.0
+- pkg:pypi/collectd-transmission@3.3
+- pkg:pypi/collectd-transmission@3.4
+- pkg:pypi/collectd-transmission@3.5
+- pkg:pypi/collectd-transmission@3.6
+- pkg:pypi/collectd-transmission@3.7
+- pkg:pypi/collectd-transmission@v1.0
+- pkg:pypi/collectd-transmission@v1.1
+- pkg:pypi/collectd-transmission@v1.2
+- pkg:pypi/collectd-transmission@v1.3
+- pkg:pypi/collectd-transmission@v2.0
+- pkg:pypi/collectd-transmission@v2.1
+- pkg:pypi/collectd-transmission@v2.2
+- pkg:pypi/collectd-transmission@v2.3
