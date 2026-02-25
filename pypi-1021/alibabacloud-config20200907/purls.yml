@@ -38,3 +38,7 @@
 - pkg:pypi/alibabacloud-config20200907@3.0.7
 - pkg:pypi/alibabacloud-config20200907@3.0.8
 - pkg:pypi/alibabacloud-config20200907@3.0.9
+- pkg:pypi/alibabacloud-config20200907@4.0.0
+- pkg:pypi/alibabacloud-config20200907@4.1.0
+- pkg:pypi/alibabacloud-config20200907@4.2.0
+- pkg:pypi/alibabacloud-config20200907@4.2.1
