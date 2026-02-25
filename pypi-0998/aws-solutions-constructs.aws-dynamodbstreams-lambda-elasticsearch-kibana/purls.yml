@@ -78,6 +78,8 @@
 - pkg:pypi/aws-solutions-constructs.aws-dynamodbstreams-lambda-elasticsearch-kibana@2.0.0rc2
 - pkg:pypi/aws-solutions-constructs.aws-dynamodbstreams-lambda-elasticsearch-kibana@2.1.0
 - pkg:pypi/aws-solutions-constructs.aws-dynamodbstreams-lambda-elasticsearch-kibana@2.10.0
+- pkg:pypi/aws-solutions-constructs.aws-dynamodbstreams-lambda-elasticsearch-kibana@2.100.0
+- pkg:pypi/aws-solutions-constructs.aws-dynamodbstreams-lambda-elasticsearch-kibana@2.100.1
 - pkg:pypi/aws-solutions-constructs.aws-dynamodbstreams-lambda-elasticsearch-kibana@2.11.0
 - pkg:pypi/aws-solutions-constructs.aws-dynamodbstreams-lambda-elasticsearch-kibana@2.12.0
 - pkg:pypi/aws-solutions-constructs.aws-dynamodbstreams-lambda-elasticsearch-kibana@2.13.0
@@ -188,3 +190,6 @@
 - pkg:pypi/aws-solutions-constructs.aws-dynamodbstreams-lambda-elasticsearch-kibana@2.95.0
 - pkg:pypi/aws-solutions-constructs.aws-dynamodbstreams-lambda-elasticsearch-kibana@2.95.1
 - pkg:pypi/aws-solutions-constructs.aws-dynamodbstreams-lambda-elasticsearch-kibana@2.96.0
+- pkg:pypi/aws-solutions-constructs.aws-dynamodbstreams-lambda-elasticsearch-kibana@2.97.0
+- pkg:pypi/aws-solutions-constructs.aws-dynamodbstreams-lambda-elasticsearch-kibana@2.98.0
+- pkg:pypi/aws-solutions-constructs.aws-dynamodbstreams-lambda-elasticsearch-kibana@2.99.0

@@ -1,1 +1,6 @@
+- pkg:pypi/aws-solutions-constructs.aws-lambda-translate@2.100.0
+- pkg:pypi/aws-solutions-constructs.aws-lambda-translate@2.100.1
 - pkg:pypi/aws-solutions-constructs.aws-lambda-translate@2.96.0
+- pkg:pypi/aws-solutions-constructs.aws-lambda-translate@2.97.0
+- pkg:pypi/aws-solutions-constructs.aws-lambda-translate@2.98.0
+- pkg:pypi/aws-solutions-constructs.aws-lambda-translate@2.99.0

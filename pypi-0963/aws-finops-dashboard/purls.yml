@@ -10,3 +10,4 @@
 - pkg:pypi/aws-finops-dashboard@2.2.7
 - pkg:pypi/aws-finops-dashboard@2.2.8
 - pkg:pypi/aws-finops-dashboard@2.2.9
+- pkg:pypi/aws-finops-dashboard@2.3.0
