@@ -1,5 +1,6 @@
 - pkg:pypi/cctbx-base@2020.8
 - pkg:pypi/cctbx-base@2025.10
+- pkg:pypi/cctbx-base@2025.11
 - pkg:pypi/cctbx-base@2025.7
 - pkg:pypi/cctbx-base@2025.8
 - pkg:pypi/cctbx-base@2025.9

@@ -42,6 +42,8 @@
 - pkg:pypi/ccs-digitalmarketplace-content-loader@13.13.4
 - pkg:pypi/ccs-digitalmarketplace-content-loader@13.14.0
 - pkg:pypi/ccs-digitalmarketplace-content-loader@13.15.0
+- pkg:pypi/ccs-digitalmarketplace-content-loader@13.16.0
+- pkg:pypi/ccs-digitalmarketplace-content-loader@13.17.0
 - pkg:pypi/ccs-digitalmarketplace-content-loader@13.2.0
 - pkg:pypi/ccs-digitalmarketplace-content-loader@13.3.0
 - pkg:pypi/ccs-digitalmarketplace-content-loader@13.4.0
