@@ -3,6 +3,7 @@
 - pkg:pypi/ampel-alerts@0.10.0a1
 - pkg:pypi/ampel-alerts@0.10.1
 - pkg:pypi/ampel-alerts@0.10.2a0
+- pkg:pypi/ampel-alerts@0.10.3
 - pkg:pypi/ampel-alerts@0.10.3a0
 - pkg:pypi/ampel-alerts@0.10.3a1
 - pkg:pypi/ampel-alerts@0.10.3a2
@@ -10,6 +11,7 @@
 - pkg:pypi/ampel-alerts@0.10.3a4
 - pkg:pypi/ampel-alerts@0.10.3a5
 - pkg:pypi/ampel-alerts@0.10.3a6
+- pkg:pypi/ampel-alerts@0.10.4a0
 - pkg:pypi/ampel-alerts@0.7.1
 - pkg:pypi/ampel-alerts@0.7.1a0
 - pkg:pypi/ampel-alerts@0.7.1a1
