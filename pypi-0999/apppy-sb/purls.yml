@@ -12,7 +12,16 @@
 - pkg:pypi/apppy-sb@0.16.0
 - pkg:pypi/apppy-sb@0.16.1
 - pkg:pypi/apppy-sb@0.17.0
+- pkg:pypi/apppy-sb@0.18.0
+- pkg:pypi/apppy-sb@0.19.0
+- pkg:pypi/apppy-sb@0.19.1
 - pkg:pypi/apppy-sb@0.2.0
+- pkg:pypi/apppy-sb@0.20.0
+- pkg:pypi/apppy-sb@0.21.0
+- pkg:pypi/apppy-sb@0.22.0
+- pkg:pypi/apppy-sb@0.23.0
+- pkg:pypi/apppy-sb@0.23.1
+- pkg:pypi/apppy-sb@0.23.2
 - pkg:pypi/apppy-sb@0.3.0
 - pkg:pypi/apppy-sb@0.3.1
 - pkg:pypi/apppy-sb@0.3.2

@@ -22,6 +22,7 @@
 - pkg:pypi/aqueduct@1.11.6
 - pkg:pypi/aqueduct@1.11.7
 - pkg:pypi/aqueduct@1.12.0
+- pkg:pypi/aqueduct@1.13.0
 - pkg:pypi/aqueduct@1.7.0
 - pkg:pypi/aqueduct@1.7.1
 - pkg:pypi/aqueduct@1.8.0
