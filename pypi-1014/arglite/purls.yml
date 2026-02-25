@@ -1,4 +1,6 @@
 - pkg:pypi/arglite@0.1
+- pkg:pypi/arglite@0.10.0
+- pkg:pypi/arglite@0.10.1
 - pkg:pypi/arglite@0.2
 - pkg:pypi/arglite@0.3
 - pkg:pypi/arglite@0.3.5
