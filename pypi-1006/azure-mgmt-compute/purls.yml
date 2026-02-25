@@ -79,6 +79,7 @@
 - pkg:pypi/azure-mgmt-compute@37.0.0
 - pkg:pypi/azure-mgmt-compute@37.0.1
 - pkg:pypi/azure-mgmt-compute@37.1.0
+- pkg:pypi/azure-mgmt-compute@37.2.0
 - pkg:pypi/azure-mgmt-compute@4.0.0
 - pkg:pypi/azure-mgmt-compute@4.0.0rc1
 - pkg:pypi/azure-mgmt-compute@4.0.0rc2

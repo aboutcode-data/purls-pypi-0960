@@ -175,3 +175,7 @@
 - pkg:pypi/azure-quantum@3.4.1.dev1
 - pkg:pypi/azure-quantum@3.5.0
 - pkg:pypi/azure-quantum@3.5.0.dev0
+- pkg:pypi/azure-quantum@3.5.1.dev0
+- pkg:pypi/azure-quantum@3.5.1.dev1
+- pkg:pypi/azure-quantum@3.6.0
+- pkg:pypi/azure-quantum@3.6.1

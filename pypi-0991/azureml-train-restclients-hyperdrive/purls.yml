@@ -98,6 +98,7 @@
 - pkg:pypi/azureml-train-restclients-hyperdrive@1.6.0
 - pkg:pypi/azureml-train-restclients-hyperdrive@1.60.0
 - pkg:pypi/azureml-train-restclients-hyperdrive@1.61.0
+- pkg:pypi/azureml-train-restclients-hyperdrive@1.62.0
 - pkg:pypi/azureml-train-restclients-hyperdrive@1.7.0
 - pkg:pypi/azureml-train-restclients-hyperdrive@1.8.0
 - pkg:pypi/azureml-train-restclients-hyperdrive@1.9.0

@@ -42,7 +42,9 @@
 - pkg:pypi/azure-storage-file-datalake@12.21.0b1
 - pkg:pypi/azure-storage-file-datalake@12.22.0
 - pkg:pypi/azure-storage-file-datalake@12.22.0b1
+- pkg:pypi/azure-storage-file-datalake@12.23.0
 - pkg:pypi/azure-storage-file-datalake@12.23.0b1
+- pkg:pypi/azure-storage-file-datalake@12.24.0b1
 - pkg:pypi/azure-storage-file-datalake@12.3.0
 - pkg:pypi/azure-storage-file-datalake@12.3.0b1
 - pkg:pypi/azure-storage-file-datalake@12.3.1
