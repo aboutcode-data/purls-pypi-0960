@@ -77,6 +77,10 @@
 - pkg:pypi/blockchyp@2.24.7.post1
 - pkg:pypi/blockchyp@2.24.8.post1
 - pkg:pypi/blockchyp@2.25.0.post1
+- pkg:pypi/blockchyp@2.26.1.post1
+- pkg:pypi/blockchyp@2.27.2.post1
+- pkg:pypi/blockchyp@2.28.0.post1
+- pkg:pypi/blockchyp@2.28.1.post1
 - pkg:pypi/blockchyp@2.3.0.post1
 - pkg:pypi/blockchyp@2.3.1.post1
 - pkg:pypi/blockchyp@2.3.2.post1
@@ -85,6 +89,7 @@
 - pkg:pypi/blockchyp@2.3.5.post1
 - pkg:pypi/blockchyp@2.3.6.post1
 - pkg:pypi/blockchyp@2.3.7.post1
+- pkg:pypi/blockchyp@2.30.0.post1
 - pkg:pypi/blockchyp@2.4.0.post1
 - pkg:pypi/blockchyp@2.5.0.post1
 - pkg:pypi/blockchyp@2.6.0.post1

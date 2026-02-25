@@ -1,3 +1,16 @@
+- pkg:pypi/bluer-journal@5.111.1
+- pkg:pypi/bluer-journal@5.113.1
+- pkg:pypi/bluer-journal@5.116.1
+- pkg:pypi/bluer-journal@5.123.1
+- pkg:pypi/bluer-journal@5.128.1
+- pkg:pypi/bluer-journal@5.134.1
+- pkg:pypi/bluer-journal@5.137.1
+- pkg:pypi/bluer-journal@5.140.1
+- pkg:pypi/bluer-journal@5.141.1
+- pkg:pypi/bluer-journal@5.147.1
+- pkg:pypi/bluer-journal@5.152.1
+- pkg:pypi/bluer-journal@5.153.1
+- pkg:pypi/bluer-journal@5.155.1
 - pkg:pypi/bluer-journal@5.16.1
 - pkg:pypi/bluer-journal@5.23.1
 - pkg:pypi/bluer-journal@5.29.1
@@ -27,3 +40,4 @@
 - pkg:pypi/bluer-journal@5.95.1
 - pkg:pypi/bluer-journal@5.96.1
 - pkg:pypi/bluer-journal@5.97.1
+- pkg:pypi/bluer-journal@5.99.1

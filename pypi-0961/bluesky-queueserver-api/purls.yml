@@ -2,6 +2,7 @@
 - pkg:pypi/bluesky-queueserver-api@0.0.10
 - pkg:pypi/bluesky-queueserver-api@0.0.11
 - pkg:pypi/bluesky-queueserver-api@0.0.12
+- pkg:pypi/bluesky-queueserver-api@0.0.13
 - pkg:pypi/bluesky-queueserver-api@0.0.2
 - pkg:pypi/bluesky-queueserver-api@0.0.3
 - pkg:pypi/bluesky-queueserver-api@0.0.4
