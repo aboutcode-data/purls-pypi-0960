@@ -23,3 +23,5 @@
 - pkg:pypi/accuweather@4.2.0
 - pkg:pypi/accuweather@4.2.1
 - pkg:pypi/accuweather@4.2.2
+- pkg:pypi/accuweather@5.0.0
+- pkg:pypi/accuweather@5.1.0
