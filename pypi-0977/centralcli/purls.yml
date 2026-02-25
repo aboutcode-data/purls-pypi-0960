@@ -313,3 +313,7 @@
 - pkg:pypi/centralcli@9.0.4.post1
 - pkg:pypi/centralcli@9.0.5
 - pkg:pypi/centralcli@9.0.6
+- pkg:pypi/centralcli@9.1.0
+- pkg:pypi/centralcli@9.2.3
+- pkg:pypi/centralcli@9.3.0
+- pkg:pypi/centralcli@9.3.1

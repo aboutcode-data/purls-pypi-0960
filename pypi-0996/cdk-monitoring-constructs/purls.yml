@@ -286,6 +286,10 @@
 - pkg:pypi/cdk-monitoring-constructs@9.17.0
 - pkg:pypi/cdk-monitoring-constructs@9.17.1
 - pkg:pypi/cdk-monitoring-constructs@9.18.0
+- pkg:pypi/cdk-monitoring-constructs@9.19.0
+- pkg:pypi/cdk-monitoring-constructs@9.19.1
+- pkg:pypi/cdk-monitoring-constructs@9.19.2
+- pkg:pypi/cdk-monitoring-constructs@9.19.3
 - pkg:pypi/cdk-monitoring-constructs@9.2.0
 - pkg:pypi/cdk-monitoring-constructs@9.3.0
 - pkg:pypi/cdk-monitoring-constructs@9.4.0
