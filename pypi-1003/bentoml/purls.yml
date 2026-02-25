@@ -202,6 +202,11 @@
 - pkg:pypi/bentoml@1.4.29
 - pkg:pypi/bentoml@1.4.3
 - pkg:pypi/bentoml@1.4.30
+- pkg:pypi/bentoml@1.4.31
+- pkg:pypi/bentoml@1.4.32
+- pkg:pypi/bentoml@1.4.33
+- pkg:pypi/bentoml@1.4.34
+- pkg:pypi/bentoml@1.4.35
 - pkg:pypi/bentoml@1.4.4
 - pkg:pypi/bentoml@1.4.5
 - pkg:pypi/bentoml@1.4.6
