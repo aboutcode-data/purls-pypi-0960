@@ -22,5 +22,7 @@
 - pkg:pypi/alfasim-sdk@1.2.0
 - pkg:pypi/alfasim-sdk@1.3.0
 - pkg:pypi/alfasim-sdk@1.4.0
+- pkg:pypi/alfasim-sdk@1.5.0.dev0
+- pkg:pypi/alfasim-sdk@1.5.1
 - pkg:pypi/alfasim-sdk@2024.1
 - pkg:pypi/alfasim-sdk@2024.2
